@@ -36,7 +36,7 @@ I mostly work with Python,HTML,CSS,JS,BootStrap,PHP,Wordpress and Bash. 🚀
 
 ### 🔭 I’m currently working on -
 
-Wordpress plugin for a Vulnerability Scanner integrated with OWASP ZAP scanner to find and report all the vulnerabilities present in your site. 🐱‍💻 
+Wordpress plugin for a Vulnerability Scanner integrated with OWASP ZAP to find and report all the vulnerabilities present in your site. 🐱‍💻 
 
 ### 📫 How to reach me?
 
