@@ -40,7 +40,7 @@ Wordpress plugin for a Vulnerability Scanner integrated with OWASP ZAP to find a
 
 ### 📫 How to reach me?
 
- - Visit my [Website](https://kartikbhushan.github.io/BetterCV/) 🌐
+ - Visit my [Website](https://kartikbhushan.github.io/Portfolio-Gatsby/) 🌐
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/kartik-bhushan-977a0716b/) 👨🏻‍💻
  - Follow me on [Instagram](https://www.instagram.com/kartik.bhushan/) ✨
  - Shoot Me an [Email](mailto:kb.mg.sg@gmail.com) 💌
