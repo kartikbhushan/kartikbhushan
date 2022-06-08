@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Kartik Bhushan a Cyber Security enthusiast and a Full stack Web dev from 🇮🇳. I am the Ethical hacking facilitor at Student Developers Clubs. I am passionate about Code in general.
+I am Kartik Bhushan a Cyber Security enthusiast and a Full stack Web dev from 🇮🇳. I am currently working as an Infosec Consultant at Microsoft. I am passionate about Code in general.
 
 I mostly work with Python,HTML,CSS,JS,BootStrap,PHP,Wordpress and Bash. 🚀
 
